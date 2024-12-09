@@ -1,0 +1,11 @@
+{
+  "name": "examenharomejia",
+  "version": "1.0.0",
+  "description": "Cadena con descripcion de la persona",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dayana Haro",
+  "license": "ISC"
+}
