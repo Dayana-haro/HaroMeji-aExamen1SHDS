@@ -9,7 +9,7 @@ function haromejia(req, resp) {
     // Estado satisfactorio 200, mensaje tipo texto plano configurado por JSON
     resp.writeHead(200, { 'Content-Type': 'text/plain' });
 
-    // Escribo el mensaje
+    //Mensaje
     resp.write('Dayana Haro Mejía\n');
     resp.write('Edad: 20 años\n');
     resp.write('Estudiante de la carrera de Desarrollo de Software\n');
