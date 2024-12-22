@@ -24,6 +24,6 @@ function haromejia(req, resp) {
 
 server.on('request', haromejia);
 
-server.listen(3001, function () {
+server.listen(3002, function () {
     console.log("La aplicación está corriendo en el puerto 3001");
 });
